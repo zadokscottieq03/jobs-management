@@ -1,5 +1,5 @@
 {
-    "name": "jobs-management",
+    "name": "health-btx-management",
     "version": "0.1.0",
     "scripts": {
         "dev": "npm run development",
